@@ -138,7 +138,7 @@ SRM Institute of Science and Technology, Ramapuram
 
 GitHub: https://github.com/SowravKanth
 
-LinkedIn: *(Add your LinkedIn profile here after sharing your internship projects.)*
+LinkedIn: *https://www.linkedin.com/in/sowravkanth/*
 
 ---
 
