@@ -88,11 +88,15 @@ Project-01-Smart-Environmental-Monitor
 
 ---
 
-##  Results
+## 📷 Output
 
-The project successfully compiles using Arduino IDE with the ESP32 board package.
+### Circuit Diagram
 
-Simulation screenshots and Serial Monitor output will be added after successful execution in Wokwi.
+![Circuit Diagram](images/CircuitDiagram.png)
+
+### Running Simulation
+
+![Running Simulation](images/SimulationRunning.png)
 
 ---
 
