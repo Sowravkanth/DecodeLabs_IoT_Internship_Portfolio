@@ -184,7 +184,7 @@ Project-03-Smart-Security-Alert-System
 
 ![AdaFruitIO_Output](images/AdaFruitIO_Output.png)
 
-he dashboard displays:
+The dashboard displays:
 
 - Live Distance Gauge
 - Security Status (SAFE / ALERT)
