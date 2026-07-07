@@ -71,10 +71,10 @@ DecodeLabs_IoT_Internship_Portfolio
 
 | Project | Title | Status |
 |----------|-------|--------|
-| Project 1 | Smart Environmental Monitor | 🟡 In Progress |
-| Project 2 | Coming Soon | ⏳ Pending |
-| Project 3 | Coming Soon | ⏳ Pending |
-| Project 4 | Coming Soon | ⏳ Pending |
+| Project 1 | Smart Environmental Monitor | Completed |
+| Project 2 | Automated Irrigation Controller | Completed |
+| Project 3 | Cloud Connected Security Node | Completed |
+| Project 4 | Coming Soon |Pending |
 
 ---
 
