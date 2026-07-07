@@ -122,13 +122,7 @@ During this internship, I aim to:
 
 ---
 
-# 📜 Certificate
-
-The internship completion certificate will be added upon successful completion of the program.
-
----
-
-# 👨‍💻 Author
+#  Author
 
 **S. Sowravkanth**
 
