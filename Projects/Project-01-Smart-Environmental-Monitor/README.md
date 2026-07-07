@@ -1,4 +1,4 @@
-# 🌡️ Smart Environmental Monitor
+#  Smart Environmental Monitor
 
 > **Project 01** of the **Decode Labs IoT Engineering Internship**
 
@@ -6,13 +6,13 @@ A simple IoT-based environmental monitoring system built using an ESP32 and a DH
 
 ---
 
-## 📖 Project Overview
+##  Project Overview
 
 Environmental monitoring is one of the fundamental applications of the Internet of Things (IoT). This project demonstrates how an ESP32 interfaces with a DHT22 sensor to continuously monitor temperature and humidity in real time.
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 - Interface the DHT22 sensor with the ESP32
 - Read temperature and humidity values
@@ -21,7 +21,7 @@ Environmental monitoring is one of the fundamental applications of the Internet 
 
 ---
 
-## 🛠 Hardware Components
+##  Hardware Components
 
 | Component | Quantity |
 |----------|----------|
@@ -30,7 +30,7 @@ Environmental monitoring is one of the fundamental applications of the Internet 
 
 ---
 
-## 💻 Software Used
+##  Software Used
 
 - Arduino IDE
 - Visual Studio Code
@@ -39,7 +39,7 @@ Environmental monitoring is one of the fundamental applications of the Internet 
 
 ---
 
-## 🔌 Circuit Connections
+##  Circuit Connections
 
 | DHT22 Pin | ESP32 Pin |
 |-----------|-----------|
@@ -49,7 +49,7 @@ Environmental monitoring is one of the fundamental applications of the Internet 
 
 ---
 
-## ⚙ Working Principle
+##  Working Principle
 
 1. The ESP32 initializes the DHT22 sensor.
 2. The sensor measures temperature and humidity.
@@ -58,7 +58,7 @@ Environmental monitoring is one of the fundamental applications of the Internet 
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 Project-01-Smart-Environmental-Monitor
@@ -88,7 +88,7 @@ Project-01-Smart-Environmental-Monitor
 
 ---
 
-## 📷 Results
+##  Results
 
 The project successfully compiles using Arduino IDE with the ESP32 board package.
 
@@ -96,6 +96,6 @@ Simulation screenshots and Serial Monitor output will be added after successful 
 
 ---
 
-## 📄 License
+##  License
 
 This project was developed as part of the **Decode Labs IoT Engineering Internship** for educational purposes.
