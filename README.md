@@ -4,7 +4,7 @@
 
 ---
 
-## 📖 About the Internship
+##  About the Internship
 
 This repository serves as the complete portfolio of my internship at **Decode Labs**, where I am working on hands-on Internet of Things (IoT) projects using microcontrollers, sensors, and embedded programming.
 
@@ -73,8 +73,8 @@ DecodeLabs_IoT_Internship_Portfolio
 |----------|-------|--------|
 | Project 1 | Smart Environmental Monitor | Completed |
 | Project 2 | Automated Irrigation Controller | Completed |
-| Project 3 | Cloud Connected Security Node | Completed |
-| Project 4 | Coming Soon |Pending |
+| Project 3 | Cloud Connected Smart Security System | Completed |
+| Project 4 | Coming Soon | Pending |
 
 ---
 
@@ -86,10 +86,8 @@ Each project follows a consistent structure for better organization and document
 Project-XX
 │
 ├── README.md
-├── report.md
 ├── code
 ├── images
-└── circuit-diagram.png
 ```
 
 ---
