@@ -1,4 +1,4 @@
-# 💧 Automated Irrigation Controller
+#  Automated Irrigation Controller
 
 Project 02 of the Decode Labs IoT Engineering Internship
 
@@ -96,7 +96,7 @@ Note: Since Wokwi does not provide a soil moisture sensor module, a potentiomete
 
 ---
 
-## 📷 Output
+##  Output
 
 ### Circuit Diagram
 
