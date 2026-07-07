@@ -56,7 +56,6 @@ DecodeLabs_IoT_Internship_Portfolio
 ├── Resources
 │   ├── Offer_Letter.pdf
 │   ├── Project_PDFs
-│   └── Certificates
 │
 └── Projects
     ├── Project-01
