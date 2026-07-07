@@ -109,6 +109,8 @@ Project-03-Smart-Security-Alert-System
 
 ![Running Simulation](images/SimulationRunning.png)
 
+![AdaFruitIO_Output](images/AdaFruitIO_Output)
+
 ---
 
 # 📄 License
